@@ -119,7 +119,7 @@
     },
     {
       "url": "https://openlist.shirorikka.dpdns.org",      
-      "desc": "支持多种存储的文件列表程序",      
+      "desc": "多种存储的文件列表程序",      
       "icon": "https://avatars.githubusercontent.com/u/215780325?s=48&v=4",      
       "title": "ShiroRikkaのOpenList"    
     },
@@ -146,6 +146,12 @@
       "title": "杂七杂八",
       "desc": "阿巴阿巴..."
     },
+    {      
+    "url": "https://srp.koyeb.app/",      
+    "desc": "Github Proxy",      
+    "icon": "https://avatars.githubusercontent.com/u/94972433?s=48&v=4",      
+    "title": "ShiroRikkaのHubproxy"    
+    },
     {
       "url": "https://ceubcvia.ap-northeast-1.clawcloudrun.com",      
       "desc": "BiliTool",      
@@ -153,10 +159,10 @@
       "title": "ShiroRikkaのBiliTool"    
     },
     {      
-      "url": "https://uzkroxvgegru.ap-northeast-1.clawcloudrun.com",            
-      "desc": "kirara-ai",            
+      "url": "https://slcyfdvafqjp.ap-northeast-1.clawcloudrun.com/",            
+      "desc": "AstrBot",            
       "icon": "https://avatars.githubusercontent.com/u/8984680?s=48&v=4",            
-      "title": "ShiroRikkaのKirara-AI"        
+      "title": "ShiroRikkaのAstrBot"        
     }
   ],
   "sitesConfig": {
