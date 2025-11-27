@@ -119,7 +119,7 @@
     },
     {
       "url": "https://openlist.shirorikka.dpdns.org",      
-      "desc": "多种存储的文件列表程序",      
+      "desc": "多存储文件列表程序",      
       "icon": "https://avatars.githubusercontent.com/u/215780325?s=48&v=4",      
       "title": "ShiroRikkaのOpenList"    
     },
@@ -157,18 +157,6 @@
       "desc": "BiliTool",      
       "icon": "https://t.alcy.cc/tx",      
       "title": "ShiroRikkaのBiliTool"    
-    },
-    {      
-      "url": "https://bot.shirorikka.dpdns.org",            
-      "desc": "AstrBot",            
-      "icon": "https://docs.astrbot.app/assets/seio_q.C4-UWL-g.png",            
-      "title": "ShiroRikkaのAstrBot"        
-    },
-    {      
-      "url": "https://napcat.shirorikka.dpdns.org",            
-      "desc": "NapCat",            
-      "icon": "https://camo.githubusercontent.com/b1e872f1bb3e3cfba16a94dee84ae17fb9fc9038a95b04e1538cc88a4ee92507/68747470733a2f2f6e61706e656b6f2e6769746875622e696f2f6173736574732f6e65776e65776c6f676f2e706e67",            
-      "title": "ShiroRikkaのNapCat"        
     }
   ],
   "sitesConfig": {
