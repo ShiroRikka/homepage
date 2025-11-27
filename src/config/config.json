@@ -130,10 +130,10 @@
       "title": "ShiroRikkaのTV"
     },
     {
-      "url": "https://fnos.shirorikka.dpdns.org",
-      "desc": "网络附加存储",
-      "icon": "https://th.bing.com/th/id/ODF.XTpWsDYyp8j48OQ0OxB9bA?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
-      "title": "ShiroRikkaのfnOS"
+      "url": "https://twikoo.shirorikka.dpdns.org",
+      "desc": "网站评论系统",
+      "icon": "https://twikoo.js.org/twikoo-logo-mini.png",
+      "title": "ShiroRikkaのTwikoo"
     },
     {
       "url": "https://shirorikka.dpdns.org",
@@ -145,6 +145,12 @@
       "icon": "https://www.loliapi.com/acg/pp/",
       "title": "杂七杂八",
       "desc": "阿巴阿巴..."
+    },
+    {
+      "url": "https://fnos.shirorikka.dpdns.org",
+      "desc": "网络附加存储",
+      "icon": "https://th.bing.com/th/id/ODF.XTpWsDYyp8j48OQ0OxB9bA?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+      "title": "ShiroRikkaのfnOS"
     },
     {      
     "url": "https://srp.koyeb.app/",      
