@@ -130,10 +130,10 @@
       "title": "ShiroRikkaのTV"
     },
     {
-      "url": "https://twikoo.shirorikka.dpdns.org",
-      "desc": "网站评论系统",
-      "icon": "https://twikoo.js.org/twikoo-logo-mini.png",
-      "title": "ShiroRikkaのTwikoo"
+      "url": "https://vps.shirorikka.dpdns.org",
+      "desc": "VPS Watcher",
+      "icon": "https://avatars.githubusercontent.com/u/208285284?s=48&v=4",
+      "title": "ShiroRikkaのWatcher"
     },
     {
       "url": "https://shirorikka.dpdns.org",
@@ -145,6 +145,12 @@
       "icon": "https://www.loliapi.com/acg/pp/",
       "title": "杂七杂八",
       "desc": "阿巴阿巴..."
+    },
+    {
+      "url": "https://twikoo.shirorikka.dpdns.org",
+      "desc": "网站评论系统",
+      "icon": "https://twikoo.js.org/twikoo-logo-mini.png",
+      "title": "ShiroRikkaのTwikoo"
     },
     {
       "url": "https://fnos.shirorikka.dpdns.org",
