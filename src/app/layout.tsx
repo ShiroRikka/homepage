@@ -52,6 +52,13 @@ export default async function RootLayout({
             src={`https://hm.baidu.com/hm.js?${process.env.BAIDUID}`}
           />
         )}
+        {process.env.UMAMI_WEBSITE_ID && (
+          <Script
+            strategy="beforeInteractive"
+            src="https://cloud.umami.is/script.js"
+            data-website-id={process.env.UMAMI_WEBSITE_ID}
+          />
+        )}
       </body>
     </html>
   );
