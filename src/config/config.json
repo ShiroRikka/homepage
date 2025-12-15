@@ -27,7 +27,6 @@
       "https://t.alcy.cc/ysmp",
       "https://t.alcy.cc/aimp",
       "https://www.loliapi.com/acg/pe/"
-
     ],
     "blur": "sm",
     "audio": null,
@@ -118,10 +117,10 @@
       "title": "ShiroRikkaのStatus"
     },
     {
-      "url": "https://openlist.shirorikka.dpdns.org",      
-      "desc": "多存储文件列表程序",      
-      "icon": "https://avatars.githubusercontent.com/u/215780325?s=48&v=4",      
-      "title": "ShiroRikkaのOpenList"    
+      "url": "https://openlist.shirorikka.dpdns.org",
+      "desc": "多存储文件列表程序",
+      "icon": "https://avatars.githubusercontent.com/u/215780325?s=48&v=4",
+      "title": "ShiroRikkaのOpenList"
     },
     {
       "url": "https://tv.shirorikka.dpdns.org",
@@ -158,17 +157,17 @@
       "icon": "https://th.bing.com/th/id/ODF.XTpWsDYyp8j48OQ0OxB9bA?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
       "title": "ShiroRikkaのfnOS"
     },
-    {      
-    "url": "https://srp.koyeb.app/",      
-    "desc": "Github Proxy",      
-    "icon": "https://avatars.githubusercontent.com/u/94972433?s=48&v=4",      
-    "title": "ShiroRikkaのHubproxy"    
+    {
+      "url": "https://srp.koyeb.app/",
+      "desc": "Github Proxy",
+      "icon": "https://avatars.githubusercontent.com/u/94972433?s=48&v=4",
+      "title": "ShiroRikkaのHubproxy"
     },
     {
-      "url": "https://ceubcvia.ap-northeast-1.clawcloudrun.com",      
-      "desc": "BiliTool",      
-      "icon": "https://t.alcy.cc/tx",      
-      "title": "ShiroRikkaのBiliTool"    
+      "url": "https://ceubcvia.ap-northeast-1.clawcloudrun.com",
+      "desc": "BiliTool",
+      "icon": "https://t.alcy.cc/tx",
+      "title": "ShiroRikkaのBiliTool"
     }
   ],
   "sitesConfig": {
@@ -236,10 +235,11 @@
     "hidden": false
   },
   "footer": {
-    "ICP": null,
-    "url": "https://shirorikka.dpdns.org",
     "text": "© 2020 - 2025 By ShiroRikka",
+    "url": "https://shirorikka.dpdns.org",
+    "ICP": null,
     "MPSICP": null,
+    "MoeICP": "萌ICP备20259300号",
     "direction": "col-reverse",
     "isExternal": true
   },

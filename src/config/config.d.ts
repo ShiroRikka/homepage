@@ -131,6 +131,7 @@ interface FooterConfig {
   url?: string;
   ICP?: string; // https://beian.miit.gov.cn
   MPSICP?: string; // https://beian.mps.gov.cn/#/query/webSearch?code=
+  MoeICP?: string; // https://icp.gov.moe/?keyword=
   direction?: string;
   isExternal?: boolean;
 }

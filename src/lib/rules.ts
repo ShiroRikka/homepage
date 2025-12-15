@@ -370,6 +370,12 @@ const footerRules: RuleItem[] = [
     desc: "填写后会链接到公安部",
   },
   {
+    field: "MoeICP",
+    isRequired: false,
+    label: "萌ICP备案号",
+    desc: "填写后会链接到萌国ICP备案",
+  },
+  {
     controlKey: "select",
     field: "direction",
     isRequired: false,
