@@ -44,6 +44,7 @@ export function Footer({
         href={`https://icp.gov.moe/?keyword=${match?.[1]}`}
         className="flex flex-nowrap items-center gap-1"
       >
+        <Image src={"https://icp.gov.moe/images/ico64.png"} width={14} height={14} alt="MoeICP" />
         <span>{text}</span>
       </Link>
     );
