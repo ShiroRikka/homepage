@@ -199,7 +199,7 @@
       },
       {
         "title": "Next.js",
-        "value": "35"
+        "value": "20"
       },
       {
         "icon": "",
@@ -227,6 +227,10 @@
         "icon": "",
         "title": "C",
         "value": "60"
+      },
+      {
+        "title": "Vite",
+        "value": "50"
       }
     ],
     "color": "linear-gradient(to right, #ffafbd 0%, #c9ffbf 100%)",
