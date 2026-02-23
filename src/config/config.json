@@ -3,7 +3,7 @@
   "name": "ShiroRikkaの主页✨",
   "favicon": "/favicon.ico",
   "keywords": "shiro,rikka,remio,rem,mio,C.C.,ShiroRikkaの次元,ShiroRikka的个人博客,ShiroRikka,个人主页,主页,个人记录,技术博客,个人生活",
-  "description": "ShiroRikkaの次元，兴趣至上，内容随缘，个人主页",
+  "description": "ShiroRikkaの主页，欢迎来玩~",
   "domain": "",
   "avatarConfig": {
     "src": "http://q.qlogo.cn/headimg_dl?dst_uin=2985772684&spec=640&img_type=jpg",
@@ -129,10 +129,10 @@
       "title": "ShiroRikkaのTV"
     },
     {
-      "url": "https://vps.shirorikka.dpdns.org",
-      "desc": "VPS Watcher",
-      "icon": "https://avatars.githubusercontent.com/u/208285284?s=48&v=4",
-      "title": "ShiroRikkaのWatcher"
+      "url": "https://srp.koyeb.app/",
+      "desc": "Github Proxy",
+      "icon": "https://avatars.githubusercontent.com/u/94972433?s=48&v=4",
+      "title": "ShiroRikkaのHubproxy"
     },
     {
       "url": "https://shirorikka.dpdns.org",
@@ -156,18 +156,6 @@
       "desc": "网络附加存储",
       "icon": "https://th.bing.com/th/id/ODF.XTpWsDYyp8j48OQ0OxB9bA?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
       "title": "ShiroRikkaのfnOS"
-    },
-    {
-      "url": "https://srp.koyeb.app/",
-      "desc": "Github Proxy",
-      "icon": "https://avatars.githubusercontent.com/u/94972433?s=48&v=4",
-      "title": "ShiroRikkaのHubproxy"
-    },
-    {
-      "url": "https://ceubcvia.ap-northeast-1.clawcloudrun.com",
-      "desc": "BiliTool",
-      "icon": "https://t.alcy.cc/tx",
-      "title": "ShiroRikkaのBiliTool"
     }
   ],
   "sitesConfig": {
