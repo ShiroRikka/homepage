@@ -117,10 +117,10 @@
       "title": "ShiroRikkaのStatus"
     },
     {
-      "url": "https://openlist.shirorikka.dpdns.org",
-      "desc": "多存储文件列表程序",
+      "url": "https://vps.shirorikka.dpdns.org",
+      "desc": "服务器探针",
       "icon": "https://avatars.githubusercontent.com/u/215780325?s=48&v=4",
-      "title": "ShiroRikkaのOpenList"
+      "title": "ShiroRikkaのVPS"
     },
     {
       "url": "https://tv.shirorikka.dpdns.org",
