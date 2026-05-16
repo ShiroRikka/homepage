@@ -105,46 +105,46 @@
       "title": "ShiroRikkaの小窝"
     },
     {
-      "url": "https://aiapi.shirorikka.dpdns.org",
-      "desc": "AIAPI",
-      "icon": "https://avatars.githubusercontent.com/u/205075698?s=48&v=4",
-      "title": "ShiroRikkaのAIAPI"
-    },
-    {
       "url": "https://status.shirorikka.dpdns.org",
       "desc": "服务程序监控",
       "icon": "https://uptime.akams.cn/upload/logo1.png?t=1750137658944",
       "title": "ShiroRikkaのStatus"
     },
     {
-      "url": "https://vps.shirorikka.dpdns.org",
-      "desc": "服务器探针",
-      "icon": "https://avatars.githubusercontent.com/u/215780325?s=48&v=4",
-      "title": "ShiroRikkaのVPS"
+      "url": "https://api.shirorikka.dpdns.org",
+      "desc": "AIAPI",
+      "icon": "https://avatars.githubusercontent.com/u/205075698?s=48&v=4",
+      "title": "ShiroRikkaのAIAPI"
     },
+    # {
+    #   "url": "https://vps.shirorikka.dpdns.org",
+    #   "desc": "服务器探针",
+    #   "icon": "https://avatars.githubusercontent.com/u/215780325?s=48&v=4",
+    #   "title": "ShiroRikkaのVPS"
+    # },
     {
-      "url": "https://tv.shirorikka.dpdns.org",
+      "url": "https://srtv.koyeb.app",
       "desc": "影视站点",
       "icon": "https://avatars.githubusercontent.com/u/226115334?s=48&v=4",
       "title": "ShiroRikkaのTV"
     },
-    {
-      "url": "https://srp.koyeb.app/",
-      "desc": "Github Proxy",
-      "icon": "https://avatars.githubusercontent.com/u/94972433?s=48&v=4",
-      "title": "ShiroRikkaのHubproxy"
-    },
+    # {
+    #   "url": "https://srp.koyeb.app/",
+    #   "desc": "Github Proxy",
+    #   "icon": "https://avatars.githubusercontent.com/u/94972433?s=48&v=4",
+    #   "title": "ShiroRikkaのHubproxy"
+    # },
     {
       "url": "https://shirorikka.dpdns.org",
       "desc": "个人主页",
       "icon": "https://avatars.githubusercontent.com/u/94972433?s=48&v=4",
       "title": "ShiroRikkaの主页"
     },
-    {
-      "icon": "https://www.loliapi.com/acg/pp/",
-      "title": "杂七杂八",
-      "desc": "阿巴阿巴..."
-    },
+    # {
+    #   "icon": "https://www.loliapi.com/acg/pp/",
+    #   "title": "杂七杂八",
+    #   "desc": "阿巴阿巴..."
+    # },
     {
       "url": "https://twikoo.shirorikka.dpdns.org",
       "desc": "网站评论系统",
