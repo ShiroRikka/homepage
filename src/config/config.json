@@ -111,13 +111,13 @@
       "title": "ShiroRikkaのStatus"
     },
     {
-      "url": "https://api.shirorikka.dpdns.org",
+      "url": "https://srapi.koyeb.app",
       "desc": "AIAPI",
       "icon": "https://avatars.githubusercontent.com/u/205075698?s=48&v=4",
       "title": "ShiroRikkaのAIAPI"
     },
     {
-      "url": "https://srtv.koyeb.app",
+      "url": "https://tv.shirorikka.dpdns.org",
       "desc": "影视站点",
       "icon": "https://avatars.githubusercontent.com/u/226115334?s=48&v=4",
       "title": "ShiroRikkaのTV"
